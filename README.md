@@ -4,6 +4,8 @@ A fixed version of the article from https://dev.to/shindakun/going-to-the-stars-
 
 This adds a few tweaks (can increase/decrease the star speed by using up/down arrow keys).
 
+![Demo](asset/stars.gif)  
+
 ## Requirements
 Needs [go-sdl2](https://github.com/veandco/go-sdl2) wrapper.
 
